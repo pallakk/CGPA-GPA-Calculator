@@ -12,7 +12,7 @@ How to Use
 Clone the Repository: Clone this repository to your local machine using git clone.
 
 bash-
-git clone https://github.com/your-username/gpa-cgpa-calculator.git
+git clone https://github.com/pallakk/gpa-cgpa-calculator.git
 Compile the Program: Compile the program using a C++ compiler. For example, using g++:
 
 bash-
